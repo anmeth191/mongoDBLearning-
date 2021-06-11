@@ -1,0 +1,16 @@
+{
+  "name": "mongoclass",
+  "version": "1.0.0",
+  "description": "this a mongodb class using mocha  mongoose and nodemon for the server update",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Angel Rivera",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7"
+  }
+}
